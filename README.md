@@ -1,1 +1,1 @@
-[[img src=attached-0001.jpg alt=foobar]]
+![alternate text](https://ibb.co/Mn4Jj1c)
